@@ -53,7 +53,7 @@ Basic Command Syntax
 
    - ```-v``` to invert the match and show non-matching lines.
    
-   - ```-vn``` to invert the match and show non-matching lines.
+   - ```-vn``` to display the lines that do not match the given pattern along with their corresponding line numbers.
 
 **3.** The script then reads the file line by line, checking for the search pattern and applying the specified options.
 
